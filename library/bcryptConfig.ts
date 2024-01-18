@@ -1,0 +1,3 @@
+export = {
+  saltRounds: 10
+}
